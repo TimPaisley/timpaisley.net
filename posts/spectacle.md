@@ -1,7 +1,8 @@
 ---
-title: 'Spectacle'
-date: '2016-09-05'
-description: 'A web tool build to consolidate, visualise and better understand geographic data.'
+title: "Spectacle"
+category: "Work Project"
+date: "2016-09-05"
+description: "A web tool build to consolidate, visualise and better understand geographic data."
 ---
 
 Spectacle is one of the larger projects in development at NEC Smart Cities, currently backed by two dev teams. The tool, which is built using a combination of web technolgies and functional programming languages, is designed to consolidate, visualise and better understand councils' geographic data. By using Spectacle, councils can explore their data like they've never been able to before, helping them to make better decisions for the wellbeing and growth of their cities.

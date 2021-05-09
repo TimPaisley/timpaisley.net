@@ -20,11 +20,11 @@ export default function Home({ allPostsData }) {
         I'm a developer/designer working in Wellington, NZ.
       </h2>
 
-      <ul className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-5">
+      <ul className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
         {allPostsData.map((post) => (
           <li key={post.id}>
             <Link href={`/posts/${post.id}`}>
-              <a><Card post={post} /></a>
+              <a className="h-full"><Card post={post} /></a>
             </Link>
           </li>
         ))}

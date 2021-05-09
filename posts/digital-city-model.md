@@ -1,7 +1,8 @@
 ---
-title: 'Digital City Model'
-date: '2016-07-30'
-description: 'A different approach to selecting DateTime values down to the minute.'
+title: "Digital City Model"
+category: "Work Project"
+date: "2016-07-30"
+description: "A different approach to selecting DateTime values down to the minute."
 ---
 
 In about the middle of 2016, just after I'd finished with university and started my new position at NEC, I started on an ambitious project that aimed to create a virtual world in which to visualise interesting data. The concept was a brainchild of my mentor at the time, Tim Rastall, and together we set about learning Geographic Information Systems (GIS), how to create interaction systems in VR using the HTC Vive, and how to work with large collections of data.
